@@ -17,6 +17,9 @@ Collected 20 Hinglish conversation examples focusing on:
 - Code-switching patterns (Hindi + English)
 - Common Voice-AI interaction scenarios
 
+hf link -- https://huggingface.co/raak-16/hinglish_model-ai
+
+
 Example format:
 ```json
 {"prompt":"User: Kaise ho?\nAssistant:","completion":"Main theek hoon, thanks for asking!"}
@@ -24,4 +27,3 @@ Example format:
 
 
 
-hf link -- https://huggingface.co/raak-16/hinglish_model-ai
