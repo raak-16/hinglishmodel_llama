@@ -21,3 +21,7 @@ Example format:
 ```json
 {"prompt":"User: Kaise ho?\nAssistant:","completion":"Main theek hoon, thanks for asking!"}
 {"prompt":"User: Sunday ko kya plan hai?\nAssistant:","completion":"Shayad movie dekhne jaun."}
+
+
+
+hf link -- https://huggingface.co/raak-16/hinglish_model-ai
